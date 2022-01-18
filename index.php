@@ -6,5 +6,7 @@
 <body>
 	<p>Hello</p>
 	<p>lorem</p>
+	<li>1</li>
+	<li>2</li>
 </body>
 </html>
